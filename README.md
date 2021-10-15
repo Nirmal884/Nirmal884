@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nirmal884
-- 👀 I’m interested in *circuit designing*
+- 👀 I’m interested in *program developing*
 - 🌱 I’m currently learning B.E in electronics and communication
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram@n_irmal__
