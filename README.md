@@ -4,10 +4,10 @@ Hi 👋 My name is Nirmal Babu
 React Developer
 --------------------
 
-I'm a self taught MERN Stack developer and I've been learning to code for 2 year.
+I'm a self taught REACT DEVELOPER and I've been learning to code for 2 year.
 
 *   🌍  I'm based in Banglore
-*   🖥️  See my portfolio at [Github](http://nirmal884.github.io/staticwebpage/)
+*   🖥️  See my portfolio at [Github](https://nirmalbabu.netlify.app/)
 *   ✉️  You can contact me at [nirmalbabu6152@gmail.com](mailto:nirmalbabu6152@gmail.com)
 *   🧠  I'm learning React Native
 *   🤝  I'm open to collaborating on Interesting Projects### Skills<p align="left">
