@@ -33,5 +33,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmal884&show_icons=true&locale=en" alt="nirmal884" /></p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6cecf87c-3480-4a03-ae08-891af62bd620/deploy-status)](https://app.netlify.com/sites/nirmalbabu/deploys)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal884&" alt="nirmal884" /></p>
