@@ -1,7 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 <h1 align="center">Hi 👋, I'm Nirmal</h1>
 <h3 align="center">I'm a self taught REACT DEVELOPER.</h3>
-<a href="https://app.daily.dev/nirmal883"><img src="https://api.daily.dev/devcards/5cbfa71b3a2e4c1389594cc68f4bda10.png?r=d3q" width="200" height="250" alt="NIRMAL Babu's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmal884&label=Profile%20views&color=0e75b6&style=flat" alt="nirmal884" /> </p>
 
