@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://nirmalbabu.netlify.app/](https://nirmalbabu.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nirmalb.netlify.app/](https://nirmalb.netlify.app/)
 
 - 💬 Ask me about **anything Except Maths😅**
 
