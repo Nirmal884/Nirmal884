@@ -8,15 +8,11 @@
 
 - 🔭 I’m currently working on **something intresting**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Upskilling
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 🤝 Connect: I’m looking to collaborate on anything **TypeScript** or **Backend** related.
 
-- 👨‍💻 All of my projects are available at [https://nirmalb.netlify.app/](https://nirmalb.netlify.app/)
-
-- 💬 Ask me about **anything Except Maths😅**
-
-- 📫 How to reach me **nirmalbabu6152@gmail.com**
+- 📫 How to reach me **sw.nirmalbabu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +26,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmal884&show_icons=true&locale=en" alt="nirmal884" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmal884&show_icons=true&locale=en" alt="nirmal884" /></p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=nirmal884&theme=gruvbox&short_numbers=true)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal884&" alt="nirmal884" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal884&" alt="nirmal884" /></p> -->
